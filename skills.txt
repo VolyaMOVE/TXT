@@ -1,0 +1,1 @@
+чек-листы, баг-репорты, SQL, Postman, Git Hub, Git Bash, mobile testing, теория тестирования
